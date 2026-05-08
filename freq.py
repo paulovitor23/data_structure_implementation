@@ -1,3 +1,5 @@
+#usado para exercicios de anagrama 
+
 def frequency_map(s: str) -> dict:
     freq = {}
     for ch in s:
